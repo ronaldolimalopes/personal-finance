@@ -1,0 +1,17 @@
+{
+    "name": "ronaldolopes/personal-finance",
+    "authors": [
+        {
+            "name": "Ronaldo Lopes",
+            "email": "ronaldolimalopes@hotmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "0.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "PersonFin\\":"src/"
+        }
+    }
+}

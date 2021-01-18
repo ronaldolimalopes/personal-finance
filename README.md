@@ -1,1 +1,1 @@
-# personal-finance
+Olá, meu nome é Ronaldo Lopes, nessa série vou criar um gerenciador de finanças pessoais com PHP 7.1 orientado a objetos utilizando os recursos mais modernos da linguagem. orientação a objetos, dependency injection, SOLID, MVC, Routing, e template engine, além de ferramentas como Composer e PHP CodeSniffer.
